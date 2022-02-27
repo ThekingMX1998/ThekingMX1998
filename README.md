@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello World👋
 
 <!--
 **ThekingMX1998/ThekingMX1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,5 +17,3 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api?username=ThekingMX1998&show_icons=true&icon_color=00BFFF&text_color=008000bg_color=ffffff&hide_title=true" />
 
-## Visitor
-![Visitor](https://profile-counter.glitch.me/ThekingMX1998/count.svg)
